@@ -1,8 +1,11 @@
+now i am in main branch
 initial commit
 i am arun
 hiii
+project-1234
 commit from local arun branch
+cheking for the branch pull
+commit from local arun branch 
+commit from local arun branch conflict code Arun did some code
 final edit to check
 
-
-cheking for the branch pull
